@@ -1,6 +1,6 @@
 # Hi, I'm Wajid Jamadar 👋
 
-### AI Engineer | Machine Learning Engineer | Generative AI | RAG | LLMs | Full-Stack Developer
+### Software Developer | AI Engineer | Generative AI | RAG | LLMs | Full-Stack Developer
 
 I'm an AI/ML Engineer passionate about building **production-ready AI applications**, intelligent automation systems, full-stack web applications, and LLM-powered solutions.
 
